@@ -3,28 +3,33 @@
   "updatedAt": "2026-07-24T00:00:00Z",
   "categories": [
     {
-      "id": "zany-tu-tri",
-      "name": "Zany Tu Tri",
+      "id": "cho-rach-ao-om",
+      "name": "Nudaeng",
       "iconUrl": "https://photo-zmini-qrmenu.zadn.vn/images/38a508c9348cddd2849d.jpg",
       "stickers": [
         {
-          "id": "sample-zmini-01",
-          "name": "Sample ZMini",
+          "id": "Nudaeng-01",
+          "name": "Nudaeng 01",
           "stickerUrl": "https://photo-zmini-qrmenu.zadn.vn/images/38a508c9348cddd2849d.jpg",
-          "tags": ["sample"]
+          "tags": ["ngheo"]
+        },{
+          "id": "Nudaeng-02",
+          "name": "Nudaeng-02",
+          "stickerUrl": "https://photo-zmini-qrmenu.zadn.vn/images/467a77164b53a20dfb42.jpg",
+          "tags": ["ia"]
         }
       ]
     },
     {
-      "id": "cute",
-      "name": "Cute",
+      "id": "meo-capoo",
+      "name": "Capoo",
       "stickers": [
         {
-          "id": "cute-01",
-          "name": "Cute 01",
-          "stickerUrl": "https://example.com/preuploaded/cute-01.webp",
-          "thumbUrl": "https://example.com/preuploaded/cute-01-thumb.webp",
-          "tags": ["cute"]
+          "id": "capoo-01",
+          "name": "Capoo 01",
+          "stickerUrl": "https://photo-zmini-qrmenu.zadn.vn/images/c912677a5b3fb261eb2e.jpg",
+          "thumbUrl": "https://photo-zmini-qrmenu.zadn.vn/images/c912677a5b3fb261eb2e.jpg",
+          "tags": ["huh"]
         }
       ]
     }
