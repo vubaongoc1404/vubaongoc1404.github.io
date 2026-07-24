@@ -39,13 +39,30 @@
           "width": 512,
           "height": 512,
           "tags": ["ngheo"]
-        },{
+        }
+        ,{
           "id": "Nudaeng-02",
           "name": "Nudaeng-02",
           "stickerUrl": "https://photo-zmini-qrmenu.zadn.vn/images/467a77164b53a20dfb42.jpg",
           "width": 512,
           "height": 512,
           "tags": ["ia"]
+        }
+        ,{
+          "id": "Nudaeng-03",
+          "name": "Nudaeng-03",
+          "stickerUrl": "https://photo-zmini-qrmenu.zadn.vn/images/02f24e9e72db9b85c2ca.jpg",
+          "width": 512,
+          "height": 512,
+          "tags": ["xin"]
+        }
+        ,{
+          "id": "Nudaeng-04",
+          "name": "Nudaeng-04",
+          "stickerUrl": "https://photo-zmini-qrmenu.zadn.vn/images/934edd22e16708395176.jpg",
+          "width": 512,
+          "height": 512,
+          "tags": ["like"]
         }
       ]
     },
