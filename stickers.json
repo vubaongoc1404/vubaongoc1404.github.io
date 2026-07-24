@@ -1,12 +1,32 @@
 {
   "version": 1,
-  "stickers": [
+  "updatedAt": "2026-07-24T00:00:00Z",
+  "categories": [
     {
-      "id": "sample-zmini-01",
-      "name": "Sample ZMini",
-      "stickerUrl": "https://photo-zmini-qrmenu.zadn.vn/images/38a508c9348cddd2849d.jpg",
-      "thumbUrl": "https://photo-zmini-qrmenu.zadn.vn/images/38a508c9348cddd2849d.jpg",
-      "tags": ["sample"]
+      "id": "zany-tu-tri",
+      "name": "Zany Tu Tri",
+      "iconUrl": "https://photo-zmini-qrmenu.zadn.vn/images/38a508c9348cddd2849d.jpg",
+      "stickers": [
+        {
+          "id": "sample-zmini-01",
+          "name": "Sample ZMini",
+          "stickerUrl": "https://photo-zmini-qrmenu.zadn.vn/images/38a508c9348cddd2849d.jpg",
+          "tags": ["sample"]
+        }
+      ]
+    },
+    {
+      "id": "cute",
+      "name": "Cute",
+      "stickers": [
+        {
+          "id": "cute-01",
+          "name": "Cute 01",
+          "stickerUrl": "https://example.com/preuploaded/cute-01.webp",
+          "thumbUrl": "https://example.com/preuploaded/cute-01-thumb.webp",
+          "tags": ["cute"]
+        }
+      ]
     }
   ]
 }
