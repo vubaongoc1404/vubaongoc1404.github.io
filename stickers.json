@@ -3,6 +3,31 @@
   "updatedAt": "2026-07-24T00:00:00Z",
   "categories": [
     {
+      "id": "lum-xa-lum-xum",
+      "name": "Lộn xộn",
+      "iconUrl": "https://photo-zmini-qrmenu.zadn.vn/images/38a508c9348cddd2849d.jpg",
+      "stickers": [
+        {
+          "id": "lon-xon-01",
+          "name": "Lộn xộn 01",
+          "stickerUrl": "https://photo-zmini-qrmenu.zadn.vn/images/359e6a215664bf3ae675.jpg",
+          "thumbUrl": "https://photo-zmini-qrmenu.zadn.vn/images/359e6a215664bf3ae675.jpg",
+          "width": 240,
+          "height": 240,
+          "tags": ["tho-bay-mau"]
+        },
+        {
+          "id": "lon-xon-02",
+          "name": "Lộn xộn 02",
+          "stickerUrl": "https://photo-zmini-qrmenu.zadn.vn/images/857bb7ff8bba62e43bab.jpg",
+          "thumbUrl": "https://photo-zmini-qrmenu.zadn.vn/images/857bb7ff8bba62e43bab.jpg",
+          "width": 164,
+          "height": 128,
+          "tags": ["hello"]
+        }
+      ]
+    },
+    {
       "id": "cho-rach-ao-om",
       "name": "Nudaeng",
       "iconUrl": "https://photo-zmini-qrmenu.zadn.vn/images/38a508c9348cddd2849d.jpg",
@@ -96,15 +121,6 @@
           "thumbUrl": "https://photo-zmini-qrmenu.zadn.vn/images/30525bd267978ec9d786.jpg",
           "width": 320,
           "height": 320,
-          "tags": ["quby"]
-        },
-        {
-          "id": "quby-07",
-          "name": "Quby 07",
-          "stickerUrl": "https://photo-zmini-qrmenu.zadn.vn/images/359e6a215664bf3ae675.jpg",
-          "thumbUrl": "https://photo-zmini-qrmenu.zadn.vn/images/359e6a215664bf3ae675.jpg",
-          "width": 240,
-          "height": 240,
           "tags": ["quby"]
         },
         {
