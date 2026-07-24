@@ -1,1 +1,12 @@
-{}
+{
+  "version": 1,
+  "stickers": [
+    {
+      "id": "sample-zmini-01",
+      "name": "Sample ZMini",
+      "stickerUrl": "https://photo-zmini-qrmenu.zadn.vn/images/38a508c9348cddd2849d.jpg",
+      "thumbUrl": "https://photo-zmini-qrmenu.zadn.vn/images/38a508c9348cddd2849d.jpg",
+      "tags": ["sample"]
+    }
+  ]
+}
