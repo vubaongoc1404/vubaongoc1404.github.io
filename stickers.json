@@ -64,6 +64,22 @@
           "height": 512,
           "tags": ["like"]
         }
+        ,{
+          "id": "Nudaeng-05",
+          "name": "Nudaeng-05",
+          "stickerUrl": "https://photo-zmini-qrmenu.zadn.vn/images/16a659ca658f8cd1d59e.jpg",
+          "width": 512,
+          "height": 512,
+          "tags": ["huh"]
+        }
+        ,{
+          "id": "Nudaeng-06",
+          "name": "Nudaeng-06",
+          "stickerUrl": "https://photo-zmini-qrmenu.zadn.vn/images/c3368a5ab61f5f41060e.jpg",
+          "width": 512,
+          "height": 512,
+          "tags": ["dance"]
+        }
       ]
     },
     {
