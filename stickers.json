@@ -496,6 +496,120 @@
           "tags": ["quby"]
         }
       ]
+    },
+    {
+      "id": "zapy-cham-kem",
+      "name": "Zapy Chằm Kẽm",
+      "stickers": [
+        {
+          "id": "zapy-cham-kem-01",
+          "name": "Zapy Chằm Kẽm 01",
+          "stickerUrl": "https://zalo-api.zadn.vn/api/emoticon/sticker/webpc?eid=100216",
+          "thumbUrl": "https://zalo-api.zadn.vn/api/emoticon/sprite?eid=100216",
+          "width": 240,
+          "height": 240,
+          "tags": ["zapy"]
+        },
+        {
+          "id": "zapy-cham-kem-02",
+          "name": "Zapy Chằm Kẽm 02",
+          "stickerUrl": "https://zalo-api.zadn.vn/api/emoticon/sticker/webpc?eid=100217",
+          "thumbUrl": "https://zalo-api.zadn.vn/api/emoticon/sprite?eid=100217",
+          "width": 240,
+          "height": 240,
+          "tags": ["zapy"]
+        },
+        {
+          "id": "zapy-cham-kem-03",
+          "name": "Zapy Chằm Kẽm 03",
+          "stickerUrl": "https://zalo-api.zadn.vn/api/emoticon/sticker/webpc?eid=100218",
+          "thumbUrl": "https://zalo-api.zadn.vn/api/emoticon/sprite?eid=100218",
+          "width": 240,
+          "height": 240,
+          "tags": ["zapy"]
+        },
+        {
+          "id": "zapy-cham-kem-04",
+          "name": "Zapy Chằm Kẽm 04",
+          "stickerUrl": "https://zalo-api.zadn.vn/api/emoticon/sticker/webpc?eid=100219",
+          "thumbUrl": "https://zalo-api.zadn.vn/api/emoticon/sprite?eid=100219",
+          "width": 240,
+          "height": 240,
+          "tags": ["zapy"]
+        },
+        {
+          "id": "zapy-cham-kem-05",
+          "name": "Zapy Chằm Kẽm 05",
+          "stickerUrl": "https://zalo-api.zadn.vn/api/emoticon/sticker/webpc?eid=100220",
+          "thumbUrl": "https://zalo-api.zadn.vn/api/emoticon/sprite?eid=100220",
+          "width": 240,
+          "height": 240,
+          "tags": ["zapy"]
+        },
+        {
+          "id": "zapy-cham-kem-06",
+          "name": "Zapy Chằm Kẽm 06",
+          "stickerUrl": "https://zalo-api.zadn.vn/api/emoticon/sticker/webpc?eid=100221",
+          "thumbUrl": "https://zalo-api.zadn.vn/api/emoticon/sprite?eid=100221",
+          "width": 240,
+          "height": 240,
+          "tags": ["zapy"]
+        },
+        {
+          "id": "zapy-cham-kem-07",
+          "name": "Zapy Chằm Kẽm 07",
+          "stickerUrl": "https://zalo-api.zadn.vn/api/emoticon/sticker/webpc?eid=100222",
+          "thumbUrl": "https://zalo-api.zadn.vn/api/emoticon/sprite?eid=100222",
+          "width": 240,
+          "height": 240,
+          "tags": ["zapy"]
+        },
+        {
+          "id": "zapy-cham-kem-08",
+          "name": "Zapy Chằm Kẽm 08",
+          "stickerUrl": "https://zalo-api.zadn.vn/api/emoticon/sticker/webpc?eid=100223",
+          "thumbUrl": "https://zalo-api.zadn.vn/api/emoticon/sprite?eid=100223",
+          "width": 240,
+          "height": 240,
+          "tags": ["zapy"]
+        },
+        {
+          "id": "zapy-cham-kem-09",
+          "name": "Zapy Chằm Kẽm 09",
+          "stickerUrl": "https://zalo-api.zadn.vn/api/emoticon/sticker/webpc?eid=100224",
+          "thumbUrl": "https://zalo-api.zadn.vn/api/emoticon/sprite?eid=100224",
+          "width": 240,
+          "height": 240,
+          "tags": ["zapy"]
+        },
+        {
+          "id": "zapy-cham-kem-10",
+          "name": "Zapy Chằm Kẽm 10",
+          "stickerUrl": "https://zalo-api.zadn.vn/api/emoticon/sticker/webpc?eid=100225",
+          "thumbUrl": "https://zalo-api.zadn.vn/api/emoticon/sprite?eid=100225",
+          "width": 240,
+          "height": 240,
+          "tags": ["zapy"]
+        },
+        {
+          "id": "zapy-cham-kem-11",
+          "name": "Zapy Chằm Kẽm 11",
+          "stickerUrl": "https://zalo-api.zadn.vn/api/emoticon/sticker/webpc?eid=100226",
+          "thumbUrl": "https://zalo-api.zadn.vn/api/emoticon/sprite?eid=100226",
+          "width": 240,
+          "height": 240,
+          "tags": ["zapy"]
+        },
+        {
+          "id": "zapy-cham-kem-12",
+          "name": "Zapy Chằm Kẽm 12",
+          "stickerUrl": "https://zalo-api.zadn.vn/api/emoticon/sticker/webpc?eid=100227",
+          "thumbUrl": "https://zalo-api.zadn.vn/api/emoticon/sprite?eid=100227",
+          "width": 240,
+          "height": 240,
+          "tags": ["zapy"]
+        }
+      ]
     }
   ]
 }
